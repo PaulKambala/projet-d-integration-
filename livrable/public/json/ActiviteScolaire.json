@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "icone": "FaStaffSnake",
+      "description": "Affaires",
+      "second_description": "Explorez les opportunités professionnelles et les stratégies dans le monde des affaires."
+    },
+    {
+      "id": 2,
+      "icone": "FaMusic",
+      "description": "Musique",
+      "second_description": "Vibrez au rythme des sons, des concerts, et de la composition musicale."
+    },
+    {
+      "id": 3,
+      "icone": "CiStethoscope",
+      "description": "Santé",
+      "second_description": "Plongez dans l'univers de la médecine, des soins aux innovations en santé publique."
+    },
+    {
+      "id": 4,
+      "icone": "TiSpiral",
+      "description": "Spirituel",
+      "second_description": "Découvrez des pratiques spirituelles pour la paix intérieure et la croissance personnelle."
+    },
+    {
+      "id": 5,
+      "icone": "FaFilm",
+      "description": "Cinéma",
+      "second_description": "Immergez-vous dans l'art cinématographique et explorez les réalisations artistiques à travers les films."
+    },
+    {
+      "id": 6,
+      "icone": "MdSportsBasketball",
+      "description": "Sport",
+      "second_description": "Pratiquez le sport pour maintenir une bonne forme physique et relever des défis en équipe."
+    },
+    {
+      "id": 7,
+      "icone": "MdSportsEsports",
+      "description": "PassTemps",
+      "second_description": "Profitez de moments de détente avec des jeux vidéo, des compétitions et des loisirs numériques."
+    },
+    {
+      "id": 9,
+      "icone": "MdFamilyRestroom",
+      "description": "Famille",
+      "second_description": "Valorisez les liens familiaux et les moments de partage en famille."
+    }
+  ]
+  

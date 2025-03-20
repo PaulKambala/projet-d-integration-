@@ -1,0 +1,56 @@
+{
+ "events": [
+  {
+   "id": 1,
+   "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8am91cm5lZSUyMHBvcnRlJTIwb3V2ZXJ0ZSUyMHBvdXIlMjB1biUyMGNvbGxlZ2V8ZW58MHx8MHx8fDA%3D",
+   "alt": "Graduation ceremony with students in gowns on stage",
+   "description": "Graduation ceremony to celebrate students' achievements.",
+   "date": "2025-06-15",
+   "heure": "14:00",
+   "deadline": "2025-06-15T14:00:00",
+   "lieu": "Main Auditorium",
+   "prix": "Free",
+   "politique_remboursement": "Refunds available up to 7 days before the event. Eventbrite fees are non-refundable.",
+   "a_propos": "A special occasion to honor students who have successfully completed their academic journey."
+  },
+  {
+   "id": 2,
+   "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+   "alt": "Main entrance of the campus with visitors during an open house",
+   "description": "Open house day to discover the programs and facilities.",
+   "date": "2025-03-12",
+   "heure": "09:00",
+   "deadline": "2025-03-12T09:00:00",
+   "lieu": "Central Campus",
+   "prix": "Free",
+   "politique_remboursement": "Registration fees are non-refundable.",
+   "a_propos": "Come explore our campus and meet our teachers and students to learn more about our programs."
+  },
+  {
+   "id": 3,
+   "image": "https://images.unsplash.com/photo-1727999988358-81cc6461bd03?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbXBldGl0aW9uJTIwJTIwc3BvcnRpdmV8ZW58MHx8MHx8fDA%3D",
+   "alt": "Athletes competing on a running track",
+   "description": "Inter-school sports competition with multiple disciplines.",
+   "date": "2025-04-20",
+   "heure": "10:00",
+   "deadline": "2025-04-20T10:00:00",
+   "lieu": "Municipal Stadium",
+   "prix": "$10 per spectator",
+   "politique_remboursement": "Tickets are non-refundable after purchase.",
+   "a_propos": "An event bringing together the best student athletes for an energetic competition full of performance."
+  },
+  {
+   "id": 4,
+   "image": "https://images.unsplash.com/photo-1703086099516-9a2b88c27a23?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTcyfHx8RXhwb3NpdGlvbiUyMHNjaWVudGlmaXF1ZXxlbnwwfHwwfHx8MA%3D%3D",
+   "alt": "Science exhibition with students presenting their projects",
+   "description": "Science exhibition showcasing innovative student projects.",
+   "date": "2025-05-18",
+   "heure": "13:30",
+   "deadline": "2025-05-18T13:30:00",
+   "lieu": "Conference Hall",
+   "prix": "Free",
+   "politique_remboursement": "Entrance is free, no refunds applicable.",
+   "a_propos": "Explore technological advancements and student scientific projects during this interactive exhibition."
+  }
+ ]
+}
