@@ -1,0 +1,129 @@
+{
+    "categories": {
+      "participer": {
+        "nom": "Participer à un événement",
+        "articles_en_vedette": [
+          {
+            "id": 1,
+            "titre": "Retrouver vos billets",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 2,
+            "titre": "Demander un remboursement",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 3,
+            "titre": "Contacter l'organisateur ",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 4,
+            "titre": "À quoi ces montants prélevés?",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 5,
+            "titre": "Transférer des billets à quelqu'un",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 6,
+            "titre": "Modifier les informations ",
+            "icone": "IoDocumentText"
+          }
+        ],
+        "naviguer_par_theme": [
+          {
+            "id": 7,
+            "titre": "Achetez et inscrivez-vous",
+            "icone": "FaDollarSign"
+          },
+          {
+            "id": 8,
+            "titre": "Vos billets",
+            "icone": "IoTicket"
+          },
+          {
+            "id": 9,
+            "titre": "Votre compte",
+            "icone": "MdAccountCircle"
+          },
+          {
+            "id": 10,
+            "titre": "Conditions et politiques",
+            "icone": "LuBookOpenText"
+          }
+        ]
+      },
+      "organiser": {
+        "nom": "Organiser un événement",
+        "articles_en_vedette": [
+          {
+            "id": 11,
+            "titre": "Launch an Eventbrite Ads campaign",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 12,
+            "titre": "Connecter votre événement en ligne à Zoom",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 13,
+            "titre": "Envoyer un courriel à vos participants inscrits",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 14,
+            "titre": "Ajouter et gérer les détails de votre paiement",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 15,
+            "titre": "Effectuer un remboursement total ou partiel",
+            "icone": "IoDocumentText"
+          },
+          {
+            "id": 16,
+            "titre": "Paiements en retard ou manquants",
+            "icone": "IoDocumentText"
+          }
+        ],
+        "naviguer_par_theme": [
+          {
+            "id": 17,
+            "titre": "Créer un évènement",
+            "icone": "RiCalendarTodoLine"
+          },
+          {
+            "id": 18,
+            "titre": "Marketing d'un événement",
+            "icone": "PiSpeakerSimpleNoneDuotone"
+          },
+          {
+            "id": 19,
+            "titre": "Gestion des commandes",
+            "icone": "LuNotebookPen"
+          },
+          {
+            "id": 20,
+            "titre": "Paiements et taxes",
+            "icone": "CiDollar"
+          },
+          {
+            "id": 21,
+            "titre": "Votre compte",
+            "icone": "MdAccountCircle"
+          },
+          {
+            "id": 22,
+            "titre": "Conditions et politiques",
+            "icone": "LuBookOpenText"
+          }
+        ]
+      }
+    }
+  }
+  
